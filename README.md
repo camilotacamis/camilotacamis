@@ -6,4 +6,5 @@ Meu nome é Camila Dantas
  - Estou me desenvolvendo na linguagem JavaScript;
  - Utilizo esse espaço para minha organizaçao e compartilhamento dos meus projetos desenvolvidos.
  
-![93004181229161011](https://github.com/user-attachments/assets/77d23e58-d297-40c5-8ec8-4c18dbce8bdf)
+https://s2.glbimg.com/MU_HOBQHWW68xx07g9NWMS4QQwg=/e.glbimg.com/og/ed/f/original/2021/11/30/giphy_1.gif
+
